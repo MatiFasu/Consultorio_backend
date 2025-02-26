@@ -1,6 +1,6 @@
 # 🚀 Backend API - Consultorio Odontológico
 
-Este es un proyecto backend desarrollado con **Spring Boot** para gestionar usuarios y médicos.
+Este es un proyecto backend desarrollado con **Spring Boot** para gestionar un consultorio.
 
 ## 📖 Descripción
 Esta API proporciona funcionalidades para:
